@@ -1,6 +1,7 @@
 # sql-challenge
 
-Background
+Background:
+
 Simulating being hired as a new data engineer at Pewlett Hackard, our first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
@@ -8,10 +9,10 @@ Data Modeling
 Data Engineering
 Data Analysis
 
-Instructions
+Instructions:
 
 Data Modeling
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+Inspect the CSVs and sketch out an ERD of the tables. 
 
 Data Engineering
 
